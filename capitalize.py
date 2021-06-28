@@ -5,6 +5,5 @@ def solve(s):
         s = s.replace(x, x.capitalize())
     return s
 
-n = input()
-cp_word = solve(n)
-print(cp_word)
+string = input()
+print(string)
